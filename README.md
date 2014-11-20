@@ -26,7 +26,9 @@ heroku open
 Alternatively, you can deploy your own copy of the app using this experimental
 web-based flow:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/no_heroku_button_2_360.png)](#)
+
+[![Deploy to DigitalOcean](https://raw.githubusercontent.com/nanzhong/sample_app_rails_4/master/app/assets/images/deploy_to_do_button.png)](http://7ece7972.ngrok.com/droplets/new/?repo=daveworth%2fnode-js-sample)
 
 ## Documentation
 
